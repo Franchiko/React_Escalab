@@ -1,0 +1,13 @@
+.container {
+	height: 250px;
+	width: 250px;
+	border: solid 3px grey;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: rgba(143, 34, 72, 0.5);
+	color: white;
+	font-size: 2.5rem;
+	text-align: center;
+	line-height: 3.3rem;
+}
